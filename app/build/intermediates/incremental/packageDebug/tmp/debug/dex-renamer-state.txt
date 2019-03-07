@@ -1,0 +1,7 @@
+#Wed Mar 06 19:45:11 COT 2019
+base.0=C\:\\Users\\watachi\\Desktop\\converted\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\watachi\\Desktop\\converted\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
